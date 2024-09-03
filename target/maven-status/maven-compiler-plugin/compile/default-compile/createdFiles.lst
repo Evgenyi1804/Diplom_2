@@ -1,0 +1,17 @@
+org\example\Moderator\UserModerator.class
+org\example\Api\UserApi\Userapi.class
+org\example\model\user\UserWithoutEmail$UserWithoutEmailBuilder.class
+org\example\model\user\User.class
+org\example\model\order\OrderCreate.class
+org\example\model\user\UserWithoutPassword.class
+org\example\Moderator\IngredientModerator.class
+org\example\model\ingredient\AddIngredients.class
+org\example\model\user\UserWithoutEmail.class
+org\example\model\user\UserWithoutName.class
+org\example\Api\Api\Api.class
+org\example\model\user\User$UserBuilder.class
+org\example\model\user\UserWithoutPassword$UserWithoutPasswordBuilder.class
+org\example\model\ingredient\Ingredient.class
+org\example\Api\Order\Order.class
+org\example\model\user\UserWithoutName$UserWithoutNameBuilder.class
+org\example\model\user\UserForCreateOrder.class

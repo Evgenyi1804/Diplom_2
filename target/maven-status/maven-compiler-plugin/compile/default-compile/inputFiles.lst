@@ -1,0 +1,13 @@
+C:\Diplom\Diplom_2\src\main\java\org\example\Api\Api\Api.java
+C:\Diplom\Diplom_2\src\main\java\org\example\Api\Order\Order.java
+C:\Diplom\Diplom_2\src\main\java\org\example\Api\UserApi\Userapi.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\ingredient\AddIngredients.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\ingredient\Ingredient.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\order\OrderCreate.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\user\User.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\user\UserForCreateOrder.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\user\UserWithoutEmail.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\user\UserWithoutName.java
+C:\Diplom\Diplom_2\src\main\java\org\example\model\user\UserWithoutPassword.java
+C:\Diplom\Diplom_2\src\main\java\org\example\Moderator\IngredientModerator.java
+C:\Diplom\Diplom_2\src\main\java\org\example\Moderator\UserModerator.java
