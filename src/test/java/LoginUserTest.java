@@ -1,7 +1,6 @@
 import org.apache.http.HttpStatus;
 import org.junit.Test;
 import org.example.Api.UserApi.Userapi;
-import org.example.Moderator.UserModerator;
 import org.example.model.user.UserWithoutEmail;
 import org.example.model.user.UserWithoutName;
 import org.example.model.user.UserWithoutPassword;
@@ -12,7 +11,6 @@ public class LoginUserTest extends BaseTest {
     public static final String SUCCESS = "success";
     public static final String INCORRECT_EMAIL = "incorrectEmail@new.ru";
     public static final String INCORRECT_PASSWORD = "incorrect_password";
-    private final UserModerator userModerator = new UserModerator();
     private final Userapi userapi = new Userapi();
 
     @Test

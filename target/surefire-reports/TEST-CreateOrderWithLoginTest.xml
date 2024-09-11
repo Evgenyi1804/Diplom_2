@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="CreateOrderWithLoginTest" time="6.792" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="CreateOrderWithLoginTest" time="9.109" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.23_9\bin"/>
-    <property name="sun.java.command" value="C:\Users\Евгений\AppData\Local\Temp\surefire5769156877720690860\surefirebooter-20240903044032690_3.jar C:\Users\Евгений\AppData\Local\Temp\surefire5769156877720690860 2024-09-03T04-40-32_040-jvmRun1 surefire-20240903044032690_1tmp surefire_0-20240903044032690_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Евгений\AppData\Local\Temp\surefire17686492486407566073\surefirebooter-20240911115924868_3.jar C:\Users\Евгений\AppData\Local\Temp\surefire17686492486407566073 2024-09-11T11-59-23_125-jvmRun1 surefire-20240911115924868_1tmp surefire_0-20240911115924868_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Diplom\Diplom_2\target\test-classes;C:\Diplom\Diplom_2\target\classes;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-junit4\2.28.0\allure-junit4-2.28.0.jar;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-java-commons\2.28.0\allure-java-commons-2.28.0.jar;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-model\2.28.0\allure-model-2.28.0.jar;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-test-filter\2.28.0\allure-test-filter-2.28.0.jar;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-rest-assured\2.28.0\allure-rest-assured-2.28.0.jar;C:\Users\Евгений\.m2\repository\io\qameta\allure\allure-attachments\2.28.0\allure-attachments-2.28.0.jar;C:\Users\Евгений\.m2\repository\org\freemarker\freemarker\2.3.33\freemarker-2.3.33.jar;C:\Users\Евгений\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Евгений\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Евгений\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Евгений\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Евгений\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Евгений\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Евгений\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Евгений\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Евгений\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Евгений\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Евгений\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Евгений\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Евгений\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Евгений\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Евгений\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Евгений\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Евгений\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\Евгений\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\Евгений\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar;C:\Users\Евгений\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\Евгений\.m2\repository\ch\qos\logback\logback-classic\1.5.6\logback-classic-1.5.6.jar;C:\Users\Евгений\.m2\repository\ch\qos\logback\logback-core\1.5.6\logback-core-1.5.6.jar;C:\Users\Евгений\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Евгений\AppData\Local\Temp\surefire5769156877720690860\surefirebooter-20240903044032690_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Евгений\AppData\Local\Temp\surefire17686492486407566073\surefirebooter-20240911115924868_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.23+9-LTS"/>
@@ -63,9 +63,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="createOrderWithIncorrectIngredients" classname="CreateOrderWithLoginTest" time="1.691">
-    <system-out><![CDATA[04:40:51.831 [main] INFO CreateOrderWithLoginTest -- Список ингредиентов: {ingredients=[Ljava.lang.String;@20a2930f}
-04:40:52.237 [main] INFO CreateOrderWithLoginTest -- Получен ответ от сервера: <!DOCTYPE html>
+  <testcase name="createOrderWithIncorrectIngredients" classname="CreateOrderWithLoginTest" time="3.25">
+    <system-out><![CDATA[12:00:22.039 [main] INFO CreateOrderWithLoginTest -- Список ингредиентов: {ingredients=[Ljava.lang.String;@52b77d5e}
+12:00:22.461 [main] INFO CreateOrderWithLoginTest -- Получен ответ от сервера: <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -78,10 +78,10 @@
 
 ]]></system-out>
   </testcase>
-  <testcase name="createCorrectOrderWithLogin" classname="CreateOrderWithLoginTest" time="3.272"/>
-  <testcase name="createOrderWithoutIngredients" classname="CreateOrderWithLoginTest" time="1.791">
-    <system-out><![CDATA[04:40:56.944 [main] INFO CreateOrderWithLoginTest -- Список ингредиентов: {}
-04:40:57.327 [main] INFO CreateOrderWithLoginTest -- Получен ответ от сервера: {"success":false,"message":"Ingredient ids must be provided"}
+  <testcase name="createCorrectOrderWithLogin" classname="CreateOrderWithLoginTest" time="4.281"/>
+  <testcase name="createOrderWithoutIngredients" classname="CreateOrderWithLoginTest" time="1.536">
+    <system-out><![CDATA[12:00:29.899 [main] INFO CreateOrderWithLoginTest -- Список ингредиентов: {}
+12:00:30.188 [main] INFO CreateOrderWithLoginTest -- Получен ответ от сервера: {"success":false,"message":"Ingredient ids must be provided"}
 ]]></system-out>
   </testcase>
 </testsuite>

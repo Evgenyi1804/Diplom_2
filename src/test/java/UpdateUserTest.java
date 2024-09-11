@@ -22,19 +22,16 @@ public class UpdateUserTest extends BaseTest {
     public static final String EMAIL = "email";
     public static final String PASSWORD = "password";
     public static final String NAME = "name";
-    private final UserModerator userModerator = new UserModerator();
     private final Userapi userapi = new Userapi();
     private final String email;
     private final String password;
     private final String name;
-    // для простоты введем переменную для отображения имени теста при прогоне параметризованных тестов
-    private final String testName;
 
     public UpdateUserTest(String email, String password, String name, String testName) {
         this.email = email;
         this.password = password;
         this.name = name;
-        this.testName = testName;
+
     }
 
     @Parameterized.Parameters(name = "{index} : update {3}")

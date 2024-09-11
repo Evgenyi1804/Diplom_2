@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: LoginUserTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.87 s -- in LoginUserTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.36 s -- in LoginUserTest
